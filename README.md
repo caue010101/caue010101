@@ -71,7 +71,8 @@
 
 <div align="center" style="display: inline-block;"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" alt="C++" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSharp.svg" alt="C#" />
+  <img width="40" src="https://techicons.dev/icons/csharp.svg" alt="C#" />
+
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" />
   <!-- restante dos ícones -->
 </div>
