@@ -71,6 +71,8 @@
 
 <div align="center" style="display: inline-block;">
   <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" />
+  <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" />
+
 </div>
 
 
