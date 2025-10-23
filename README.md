@@ -37,6 +37,3 @@
   <img src="https://github.com/caue010101/caue010101/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-<div align="center">
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=caue010101&theme=radical)
-</div>
