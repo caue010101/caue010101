@@ -29,14 +29,11 @@
 
 ## 📌 Projetos em destaque
 
-<a href="https://github.com/caue010101/CineSystem">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=caue010101&repo=CineSystem&theme=default&hide_border=true" width="48%" />
-</a>
-<a href="https://github.com/caue010101/dotnet-cep-api">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=caue010101&repo=dotnet-cep-api&theme=default&hide_border=true" width="48%" />
-</a>
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [**CineSystem**](https://github.com/caue010101/CineSystem) | API de filmes favoritos com Clean Architecture e integração com TMDB | ASP.NET Core · Dapper · PostgreSQL · JWT · xUnit |
+| [**dotnet-cep-api**](https://github.com/caue010101/dotnet-cep-api) | Consulta de CEP com cache, rate limiting e integração com ViaCEP | ASP.NET Core · Dapper · PostgreSQL · JWT |
 
-<br clear="both">
 <br>
 
 ## 📊 Estatísticas
